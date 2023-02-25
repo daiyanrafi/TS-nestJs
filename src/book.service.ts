@@ -24,3 +24,5 @@ export class BookService{
         return 'This is find book by id method';
     }
 }
+
+//all logic are here but urls are in controller file
